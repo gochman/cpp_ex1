@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Activation.cpp
+Activation.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Activation.h
+math.h
+-
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Activation.h
+Matrix.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.h
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Dense.cpp
+Dense.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Dense.h
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Dense.h
+Matrix.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.h
+Activation.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Activation.h
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Digit.h
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.cpp
+Matrix.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.h
+fstream
+-
+iostream
+-
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.h
+fstream
+-
+iostream
+-
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/MlpNetwork.cpp
+MlpNetwork.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/MlpNetwork.h
+Dense.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Dense.h
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/MlpNetwork.h
+Matrix.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.h
+Digit.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Digit.h
+
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/main.cpp
+fstream
+-
+Matrix.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Matrix.h
+Activation.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Activation.h
+Dense.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/Dense.h
+MlpNetwork.h
+/cygdrive/c/Yoav's Disk/Limudim/Semester C/C++/projects/ex1/MlpNetwork.h
+
